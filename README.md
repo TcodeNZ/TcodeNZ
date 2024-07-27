@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @TcodeNZ
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning data analytics
+- 🌱 I’m a Data analyst / Engineer
 - 💞️ I’m looking to collaborate on R
 - 📫 Reach me ON GITHUB with TcodeNZ
 
